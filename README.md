@@ -8,9 +8,9 @@ But its mostly just ~~cpp~~ python . . .
 | Difficulty | Count |
 |------------|-------|
 | Easy       | 43    |
-| Medium     | 52    |
+| Medium     | 53    |
 | Hard       | 3     |
-| Total      | 98    |
+| Total      | 99    |
 
 ## Problem List
 
@@ -68,6 +68,7 @@ But its mostly just ~~cpp~~ python . . .
 | [226](https://leetcode.com/problems/invert-binary-tree/)                                                                           | Invert Binary Tree                                           | [Python](./Easy/InvertBinaryTree.py)                                                                | Easy       |
 | [217](https://leetcode.com/problems/contains-duplicate/)                                                                           | Contains Duplicate                                           | [C++](./Easy/ContainsDuplicate.cpp) [Python](./Easy/ContainsDuplicates.py)                          | Easy       |
 | [213](https://leetcode.com/problems/house-robber-ii/)                                                                              | House Robber II                                              | [C++](./Medium/HouseRobberII.cpp)                                                                   | Medium     |
+| [207](https://leetcode.com/problems/course-schedule/)                                                                              | Course Schedule                                              | [Python](./Medium/CourseSchedule.py)                                                                | Medium     |
 | [206](https://leetcode.com/problems/reverse-linked-list/)                                                                          | Reverse Linked Lists                                         | [C++](./Easy/ReverseLinkedLists.cpp) [Python](./Easy/ReverseLinkedLists.py)                         | Easy       |
 | [205](https://leetcode.com/problems/isomorphic-strings/?envType=daily-question&envId=2023-09-01)                                   | Isomorphic Strings                                           | [Python](./Easy/IsomorphicStrings.py)                                                               | Easy       |
 | [200](https://leetcode.com/problems/number-of-islands/)                                                                            | Number of Islands                                            | [Python](./Medium/NumberOfIslands.py)                                                               | Medium     |
