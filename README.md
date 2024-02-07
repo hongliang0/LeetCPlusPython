@@ -8,9 +8,9 @@ But its mostly just ~~cpp~~ python . . .
 | Difficulty | Count |
 |------------|-------|
 | Easy       | 43    |
-| Medium     | 53    |
+| Medium     | 54    |
 | Hard       | 3     |
-| Total      | 99    |
+| Total      | 100   |
 
 ## Problem List
 
@@ -55,6 +55,7 @@ But its mostly just ~~cpp~~ python . . .
 | [543](https://leetcode.com/problems/diameter-of-binary-tree/)                                                                      | Diameter of Binary Tree                                      | [Python](./Easy/DiameterofBinaryTree.py)                                                            | Easy       |
 | [516](https://leetcode.com/problems/longest-palindromic-subsequence/)                                                              | Longest Palindromic Subsequence                              | [C++](./Medium/LongestPalindromicSubsequence.cpp)                                                   | Medium     |
 | [455](https://leetcode.com/problems/assign-cookies/)                                                                               | Assign Cookies                                               | [Python](./Easy/AssignCookies.py)                                                                   | Easy       |
+| [451](https://leetcode.com/problems/sort-characters-by-frequency/)                                                                 | Sort Characters By Frequency                                 | [Python](./Medium/SortCharactersByFrequency.py)                                                     | Medium     |
 | [443](https://leetcode.com/problems/string-compression/)                                                                           | String Compression                                           | [Python](./Medium/StringCompression.py)                                                             | Medium     |
 | [424](https://leetcode.com/problems/longest-repeating-character-replacement/)                                                      | Longest Repeating Character Replacement                      | [Python](./Medium/LongestRepeatingCharacterReplacement.py)                                          | Medium     |
 | [416](https://leetcode.com/problems/partition-equal-subset-sum/)                                                                   | Partition Equal Subset Sum                                   | [C++](./Medium/PartitionEqualSubsetSum.cpp)                                                         | Medium     |

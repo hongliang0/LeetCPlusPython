@@ -57,3 +57,18 @@ class Solution(object):
             myDict[hash_function].append(word)
 
         return list(myDict.values())
+
+
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        my_dict = {}
+        for word in strs:
+            arranged_word = "".join(sorted(word))
+            if arranged_word not in my_dict:
+                my_dict[arranged_word] = [word]
+            else:
+                my_dict[arranged_word].append(word)
+        answer = []
+        for value in my_dict.values():
+            answer.append(value)
+        return answer
