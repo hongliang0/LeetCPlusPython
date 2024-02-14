@@ -7,10 +7,10 @@ But its mostly just ~~cpp~~ python . . .
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 46    |
-| Medium     | 57    |
+| Easy       | 47    |
+| Medium     | 59    |
 | Hard       | 3     |
-| Total      | 106   |
+| Total      | 109   |
 
 ## Problem List
 
@@ -24,6 +24,7 @@ But its mostly just ~~cpp~~ python . . .
 | [2439](https://leetcode.com/problems/minimize-maximum-of-array/)                                                                   | Minimize Maximum of Array                                    | [Python](./Medium/MinimizeMaxofArray.py)                                                            | Medium     |
 | [2405](https://leetcode.com/problems/optimal-partition-of-string/)                                                                 | Optimal Partition of String                                  | [Python](./Medium/OptimalPartitionofStrings.py)                                                     | Medium     |
 | [2353](https://leetcode.com/problems/design-a-food-rating-system/?envType=daily-question&envId=2023-12-17)                         | Design a Food Rating System                                  | [Python](./Medium/DesignAFoodRatingSystem.py)                                                       | Medium     |
+| [2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/)                                                            | Rearrange Array Elements by Sign                             | [Python](./Medium/RearrangeArrayElementsBySign.py)                                                  | Medium     |
 | [2125](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)                                                             | Number of Laser Beams in a Bank                              | [Python](./Medium/NumberofLaserBeamsinaBank.py)                                                     | Medium     |
 | [2108](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                                                  | Find First Palindromic String in the Array                   | [Python](./Easy/FindFirstPalindromicStringintheArray.py)                                            | Easy       |
 | [2101](https://leetcode.com/problems/detonate-the-maximum-bombs/)                                                                  | Detonate the Maximum Bombs                                   | [Python](./Medium/DetonateMaxBombs.py)                                                              | Medium     |
@@ -103,7 +104,9 @@ But its mostly just ~~cpp~~ python . . .
 | [80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150)          | Remove Duplicates from Sorted Array II                       | [C++](./Medium/RemoveDuplicatesFromSortedArrayII.cpp)                                               | Medium     |
 | [74](https://leetcode.com/problems/search-a-2d-matrix/)                                                                            | Search a 2D Matrix                                           | [Python](./Medium/SearchA2DMatrix.py)                                                               | Medium     |
 | [70](https://leetcode.com/problems/climbing-stairs/)                                                                               | Climbing Stairs                                              | [C++](./Easy/ClimbingStairs.cpp)                                                                    | Easy       |
+| [55](https://leetcode.com/problems/jump-game/)                                                                                     | Jump Game                                                    | [Python](./Medium/JumpGame.py)                                                                      | Medium     |
 | [49](https://leetcode.com/problems/group-anagrams/)                                                                                | Group Anagrams                                               | [C++](./Medium/GroupAnagrams.cpp) [Python](./Medium/GroupAnagrams.py)                               | Medium     |
+| [45](https://leetcode.com/problems/jump-game-ii/)                                                                                  | Jump Game II                                                 | [Python](./Medium/JumpGameII.py)                                                                    | Medium     |
 | [36](https://leetcode.com/problems/valid-sudoku/)                                                                                  | Valid Sudoku                                                 | [C++](./Medium/ValidSudoku.cpp) [Python](./Medium/ValidSudoku.py)                                   | Medium     |
 | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                                | Search in Rotated Sorted Array                               | [Python](./Medium/SearchInRotatedSortedArray.py)                                                    | Medium     |
 | [28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)                                            | Find the Index of the First Occurrence in a String           | [Python](./Easy/FindTheIndexoftheFirstOccurrenceinaString.py)                                       | Easy       |
@@ -114,6 +117,7 @@ But its mostly just ~~cpp~~ python . . .
 | [20](https://leetcode.com/problems/valid-parentheses/)                                                                             | Valid Parentheses                                            | [C++](./Easy/ValidParentheses.cpp) [Python](./Easy/ValidParentheses.py)                             | Easy       |
 | [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                                              | Remove Nth Node From End of List                             | [Python](./Medium/RemoveNthNodefromEndofList.py)                                                    | Medium     |
 | [15](https://leetcode.com/problems/3sum/)                                                                                          | 3Sum                                                         | [Python](./Medium/3Sum.py)                                                                          | Medium     |
+| [14](https://leetcode.com/problems/longest-common-prefix/)                                                                         | Longest Common Prefix                                        | [Python](./Easy/LongestCommonPrefix.py)                                                             | Easy       |
 | [13](https://leetcode.com/problems/roman-to-integer/)                                                                              | Roman to Integer                                             | [Python](./Easy/RomanToInteger.py)                                                                  | Easy       |
 | [11](https://leetcode.com/problems/container-with-most-water/)                                                                     | Container With Most Water                                    | [Python](./Medium/ContainerWithMostWater.py)                                                        | Medium     |
 | [9](https://leetcode.com/problems/palindrome-number/)                                                                              | Palindrome Number                                            | [C++](./Easy/Palindrome.cpp) [Python](./Easy/Palindrome.py)                                         | Easy       |
