@@ -7,4 +7,3 @@ class Solution:
                 if nums[i] > nums[j] and lis[i] < lis[j] + 1:
                     lis[i] = lis[j] + 1
         return max(lis)
-    
